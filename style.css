@@ -39,7 +39,7 @@ nav, .header {
 
 .topnav li a {
   display: block;
-  padding: 20px;
+  padding: 15px 20px;
   border-right: 1px solid #f4f4f4;
   text-decoration: none;
   text-align: center;
@@ -313,6 +313,10 @@ footer {
 #socials {
   border: 1px dashed #303030;
   border-radius: 50%;
+  margin: 1.5% 0;
+}
+#socials:hover {
+  border-color:#710174;
 }
 .credits-links {
   font-weight: 600; 
